@@ -1,6 +1,6 @@
-# SPOTIFY WEBSITE
+# TRIANGLES AND SCRIPTS
 
-- Main file index.html 
-- Dockerfile for create the docker img
+- Correct, Right, Left and Inverted Triangles Python code
+- And run the Python code in script
   
-![site](/TRIANGLES.png)
+![TRIANGLES](/TRIANGLES.png)
